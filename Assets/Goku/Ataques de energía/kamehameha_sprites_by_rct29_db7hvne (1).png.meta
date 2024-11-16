@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 224241db5b311524caf767260a3d9a0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4570.222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9e80fea94b574eb96ea953f122b3c
+      internalID: -1876167825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4395.222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f2df9739eb943438e79e0d1db50bc4
+      internalID: 393644491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4220.222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989ca8eeca5564448626f3252afec0a
+      internalID: -2052933727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4045.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a1b84ba85ccbb41a03c0fd769ba859
+      internalID: -144991771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3870.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3a637f4dfc294885ebf47ce8c71cd
+      internalID: -1393758674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3695.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dca6f11464a5a448fd244d78cebf77
+      internalID: -1490426918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490eb1ab66e5dfd4d8c288548b8c6e16
+      internalID: -2122443597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3345.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918667a2fa8e3994d8c93e3a7eebba8b
+      internalID: 664680004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3170.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511d3cd16ba83f449263f13f3986d4e
+      internalID: 1635826759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2995.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ca214887b4014d83d54f0f2e5396b
+      internalID: -652821620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2820.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267fb9372b443a459de69fcf041a6a3
+      internalID: 1232339838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2645.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf06d4318064544480db5ab4c5d5df9
+      internalID: 328437451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2470.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4a8385fb01fc4cb21d69dc202c992
+      internalID: 1856854950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2295.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f680e4a733e314eae9b3b34a8c07e0
+      internalID: -53115964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5761a92942b540b2956f9be9a6a72
+      internalID: -1886167288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1945.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06753f75f362e7e4cb5abd14f5e183e5
+      internalID: 1485698428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e99a5337c499f6449802f65baa0835a
+      internalID: -1605403815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1595.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b84e576417877408b62dd3e251839d
+      internalID: 357331823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae497ae6528118943ad9126d606fce61
+      internalID: -472854562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8bf280cc837f04cae0b37697b216b2
+      internalID: 2146862548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da359245e743d44a9b41b3f1570840d
+      internalID: 152207422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ab2d4c91622a4b851b1c382e4c850
+      internalID: -682194395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f28eb08b69f240b96a220fd45b5d1
+      internalID: 327673158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545.2222
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ed14a9e9ea314aaac6404deb849a8
+      internalID: 804946863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370.22223
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7b264d176ee244ad62eb4486ce966
+      internalID: 1094460898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195.22223
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928a9408bc1982e43b2cc2159de6c0a6
+      internalID: 548409512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kamehameha_sprites_by_rct29_db7hvne (1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20.222229
+        width: 2282
+        height: 175.77777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71a6f2e013d8a4188ff89009cca5eb
+      internalID: 1885666494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kamehameha_sprites_by_rct29_db7hvne (1)_0: -1876167825
+      kamehameha_sprites_by_rct29_db7hvne (1)_1: 393644491
+      kamehameha_sprites_by_rct29_db7hvne (1)_10: 1232339838
+      kamehameha_sprites_by_rct29_db7hvne (1)_11: 328437451
+      kamehameha_sprites_by_rct29_db7hvne (1)_12: 1856854950
+      kamehameha_sprites_by_rct29_db7hvne (1)_13: -53115964
+      kamehameha_sprites_by_rct29_db7hvne (1)_14: -1886167288
+      kamehameha_sprites_by_rct29_db7hvne (1)_15: 1485698428
+      kamehameha_sprites_by_rct29_db7hvne (1)_16: -1605403815
+      kamehameha_sprites_by_rct29_db7hvne (1)_17: 357331823
+      kamehameha_sprites_by_rct29_db7hvne (1)_18: -472854562
+      kamehameha_sprites_by_rct29_db7hvne (1)_19: 2146862548
+      kamehameha_sprites_by_rct29_db7hvne (1)_2: -2052933727
+      kamehameha_sprites_by_rct29_db7hvne (1)_20: 152207422
+      kamehameha_sprites_by_rct29_db7hvne (1)_21: -682194395
+      kamehameha_sprites_by_rct29_db7hvne (1)_22: 327673158
+      kamehameha_sprites_by_rct29_db7hvne (1)_23: 804946863
+      kamehameha_sprites_by_rct29_db7hvne (1)_24: 1094460898
+      kamehameha_sprites_by_rct29_db7hvne (1)_25: 548409512
+      kamehameha_sprites_by_rct29_db7hvne (1)_26: 1885666494
+      kamehameha_sprites_by_rct29_db7hvne (1)_3: -144991771
+      kamehameha_sprites_by_rct29_db7hvne (1)_4: -1393758674
+      kamehameha_sprites_by_rct29_db7hvne (1)_5: -1490426918
+      kamehameha_sprites_by_rct29_db7hvne (1)_6: -2122443597
+      kamehameha_sprites_by_rct29_db7hvne (1)_7: 664680004
+      kamehameha_sprites_by_rct29_db7hvne (1)_8: 1635826759
+      kamehameha_sprites_by_rct29_db7hvne (1)_9: -652821620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
